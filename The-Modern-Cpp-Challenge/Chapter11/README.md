@@ -11,4 +11,6 @@ Chapter 11
 93. Encrypting and decrypting files  
 94. File signing  
 
+### Document
+https://ken-ohwada.hatenadiary.org/entry/2022/09/29/133527
 

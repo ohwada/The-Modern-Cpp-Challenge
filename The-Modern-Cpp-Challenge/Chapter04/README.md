@@ -11,3 +11,6 @@ Chapter 04
 37. Finding files in a directory that match a regular expression  
 38. Temporary log files  
 
+### Document
+https://ken-ohwada.hatenadiary.org/entry/2022/08/23/160240
+

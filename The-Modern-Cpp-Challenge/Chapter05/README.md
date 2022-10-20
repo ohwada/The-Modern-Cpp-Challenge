@@ -11,3 +11,6 @@ Chapter 05
 43. Meeting time for multiple time zones  
 44. Monthly calendar  
 
+### Document
+https://ken-ohwada.hatenadiary.org/entry/2022/08/29/160333
+

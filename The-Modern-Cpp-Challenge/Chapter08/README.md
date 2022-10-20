@@ -10,4 +10,6 @@ Chapter 08
 71. Observable vector container  
 72. Computing order price with discounts  
 
+### Document
+https://ken-ohwada.hatenadiary.org/entry/2022/09/20/131759
 

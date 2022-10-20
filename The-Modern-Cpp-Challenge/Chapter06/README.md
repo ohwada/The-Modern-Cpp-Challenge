@@ -20,4 +20,6 @@ Chapter 06
 59. The Weasel program  
 60. The Game of Life  
 
+### Document
+https://ken-ohwada.hatenadiary.org/entry/2022/09/05/143052
 

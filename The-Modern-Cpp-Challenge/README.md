@@ -30,4 +30,6 @@ https://vdoc.pub/download/the-modern-c-challenge-become-an-expert-programmer-by-
 - 11 Cryptography 
 - 12 Networking and Services   
 
+### Document
+https://ken-ohwada.hatenadiary.org/entry/2022/08/01/140349
 

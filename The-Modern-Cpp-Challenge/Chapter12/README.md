@@ -10,4 +10,6 @@ Chapter 12
 99. Translating text to any language   
 100. Detecting faces in a picture   
 
+### Document
+https://ken-ohwada.hatenadiary.org/entry/2022/10/03/135238
 

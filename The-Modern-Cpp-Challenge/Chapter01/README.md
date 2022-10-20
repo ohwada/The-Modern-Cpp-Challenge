@@ -18,3 +18,5 @@ Chapter 01
 13. Computing the value of Pi   
 14. Validating ISBNs  
 
+### Document
+https://ken-ohwada.hatenadiary.org/entry/2022/08/01/140349

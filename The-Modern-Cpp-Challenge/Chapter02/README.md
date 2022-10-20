@@ -12,4 +12,6 @@ Chapter 02
 21. System handle wrapper
 22. Literals of various temperature scales  
 
+### Document
+https://ken-ohwada.hatenadiary.org/entry/2022/08/08/143244
 

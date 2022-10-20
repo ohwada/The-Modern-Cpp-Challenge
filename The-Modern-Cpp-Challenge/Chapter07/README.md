@@ -11,3 +11,6 @@ Chapter 07
 65. Thread-safe logging to the console  
 66. Customer service system
 
+### Document
+https://ken-ohwada.hatenadiary.org/entry/2022/09/12/145420
+

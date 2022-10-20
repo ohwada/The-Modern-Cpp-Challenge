@@ -12,3 +12,6 @@ Chapter 03
 29. License plate validation  
 30. Extracting URL parts  
 31. Transforming dates in strings  
+
+### Document
+https://ken-ohwada.hatenadiary.org/entry/2022/08/16/091804

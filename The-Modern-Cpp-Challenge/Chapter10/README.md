@@ -13,4 +13,7 @@ Chapter 10
 86. Inserting movies into an SQLite database transactionally  
 87. Handling movie images in an SQLite database  
 
+### Document
+https://ken-ohwada.hatenadiary.org/entry/2022/09/26/134257
+
 
