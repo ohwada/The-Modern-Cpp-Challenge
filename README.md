@@ -1,6 +1,8 @@
 The-Modern-Cpp-Challenge  
 ===============
 
+<img src="https://raw.githubusercontent.com/ohwada/The-Modern-Cpp-Challenge/main/images/The-Modern-Cpp-Challenge.jpg" width="300" />  
+
 This is Clone  
  https://github.com/PacktPublishing/The-Modern-Cpp-Challenge  
 
